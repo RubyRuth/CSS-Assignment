@@ -1,0 +1,37 @@
+/* styling the div tags */
+div{
+    background-color: white;
+    height: fit-content;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border: 2px solid black;
+    margin: 20px 20px;
+    width: 500px;
+    padding: 10px 10px;
+}
+/* styling the h2 tags */
+h2{
+    /* text-decoration: dotted;
+    text-align: center;
+    text-transform: uppercase;
+    color: black;
+    font-size: 18px; */
+}
+/* styling the div classes */
+.firstdiv{
+    color: green;
+    font-size: 14px;
+    font-style: italic;
+    font-weight: bold;
+}
+.seconddiv{
+    color: red;
+    font-size: 14px;
+    font-style: italic;
+    font-weight: bold;
+}
+.thirddiv{
+    color: blue;  
+    font-size: 14px;
+    font-style: italic;
+    font-weight: bold;
+}
